@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Random tree photo from internet](https://pixabay.com/photos/tree-sunset-amazing-beautiful-736885)
